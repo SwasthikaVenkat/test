@@ -1,4 +1,6 @@
 def func():
-    print("True")
+    print("T")
+    print("F")
+
 
 func()    
